@@ -1,0 +1,2 @@
+# Prico
+Hexo图床
